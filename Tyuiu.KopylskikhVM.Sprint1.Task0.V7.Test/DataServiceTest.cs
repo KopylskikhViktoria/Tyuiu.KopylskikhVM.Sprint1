@@ -13,6 +13,6 @@ namespace Tyuiu.KopylskikhVM.Sprint1.Task0.V0.Test
             var res = ds.Calculate();
             Assert.AreEqual(5, res);
         }
-       
+
     }
 }
